@@ -1,0 +1,18 @@
+{
+  "build/app.css": "/build/app.css",
+  "build/app.js": "/build/app.js",
+  "build/runtime.js": "/build/runtime.js",
+  "build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_da-03e5c3.js": "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_da-03e5c3.js",
+  "build/images/coeur_defense.jpg": "/build/images/coeur_defense.2c017acc.jpg",
+  "build/images/alto.jpg": "/build/images/alto.f12cabb2.jpg",
+  "build/images/total.jpg": "/build/images/total.1bcaf27c.jpg",
+  "build/images/first.jpg": "/build/images/first.1f762551.jpg",
+  "build/images/ste_generale.jpg": "/build/images/ste_generale.54ddfbec.jpg",
+  "build/images/majunga.jpg": "/build/images/majunga.f5974dbb.jpg",
+  "build/images/hekla.jpg": "/build/images/hekla.b893c3d8.jpg",
+  "build/images/trinity.jpg": "/build/images/trinity.54164264.jpg",
+  "build/images/edf.jpg": "/build/images/edf.1bc9b845.jpg",
+  "build/images/arche.jpg": "/build/images/arche.88b8c1b7.jpg",
+  "build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_da-ea2c5d.js": "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_da-ea2c5d.js",
+  "build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_ar-44b510.js": "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_ar-44b510.js"
+}
