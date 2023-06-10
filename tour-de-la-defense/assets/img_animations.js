@@ -19,9 +19,9 @@ tl.add({
 	opacity: 1,
 	translateY: '-200%',
 	duration: 4000,
-},'-=1600')
+}, '-=1600')
 
-window.addEventListener('scroll',() => {
+window.addEventListener('scroll', () => {
 	let value = Math.trunc(window.scrollY - window.scrollY * 0.35);
 	let root = document.querySelector(':root');
 	let card = document.getElementById('card');
