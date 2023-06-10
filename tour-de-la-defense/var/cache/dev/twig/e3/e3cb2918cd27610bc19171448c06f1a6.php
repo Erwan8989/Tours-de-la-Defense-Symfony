@@ -85,16 +85,16 @@ class __TwigTemplate_515f40689152b98b2e5799ea928faa19 extends Template
 \t<h2 class=\"typeWriterClass\" id=\"typeWriterId\"></h2>
 \t<section class=\"anime-container\">
 \t\t<article class=\"img\">
-\t\t\t<div class=\"arche bande bande1\"></div>
-\t\t\t<div class=\"heckla bande bande2\"></div>
-\t\t\t<div class=\"first bande bande4\"></div>
-\t\t\t<div class=\"edf bande bande2\"></div>
-\t\t\t<div class=\"trinity bande bande3\"></div>
-\t\t\t<div class=\"majunga bande bande4\"></div>
-\t\t\t<div class=\"total bande bande1\"></div>
-\t\t\t<div class=\"coeur_defense bande bande4\"></div>
-\t\t\t<div class=\"alto bande bande2\"></div>
-\t\t\t<div class=\"ste_generale bande bande3\"></div>
+\t\t\t<div class=\"arche image-container bande1\"></div>
+\t\t\t<div class=\"heckla image-container bande2\"></div>
+\t\t\t<div class=\"first image-container bande4\"></div>
+\t\t\t<div class=\"edf image-container bande2\"></div>
+\t\t\t<div class=\"trinity image-container bande3\"></div>
+\t\t\t<div class=\"majunga image-container bande4\"></div>
+\t\t\t<div class=\"total image-container bande1\"></div>
+\t\t\t<div class=\"coeur_defense image-container bande4\"></div>
+\t\t\t<div class=\"alto image-container bande2\"></div>
+\t\t\t<div class=\"ste_generale image-container bande3\"></div>
 \t\t</article>
 \t</section>
 \t<section class=\"card-container\" style=\"opacity: 0.2\" id=\"card\"></section>
@@ -246,16 +246,16 @@ class __TwigTemplate_515f40689152b98b2e5799ea928faa19 extends Template
 \t<h2 class=\"typeWriterClass\" id=\"typeWriterId\"></h2>
 \t<section class=\"anime-container\">
 \t\t<article class=\"img\">
-\t\t\t<div class=\"arche bande bande1\"></div>
-\t\t\t<div class=\"heckla bande bande2\"></div>
-\t\t\t<div class=\"first bande bande4\"></div>
-\t\t\t<div class=\"edf bande bande2\"></div>
-\t\t\t<div class=\"trinity bande bande3\"></div>
-\t\t\t<div class=\"majunga bande bande4\"></div>
-\t\t\t<div class=\"total bande bande1\"></div>
-\t\t\t<div class=\"coeur_defense bande bande4\"></div>
-\t\t\t<div class=\"alto bande bande2\"></div>
-\t\t\t<div class=\"ste_generale bande bande3\"></div>
+\t\t\t<div class=\"arche image-container bande1\"></div>
+\t\t\t<div class=\"heckla image-container bande2\"></div>
+\t\t\t<div class=\"first image-container bande4\"></div>
+\t\t\t<div class=\"edf image-container bande2\"></div>
+\t\t\t<div class=\"trinity image-container bande3\"></div>
+\t\t\t<div class=\"majunga image-container bande4\"></div>
+\t\t\t<div class=\"total image-container bande1\"></div>
+\t\t\t<div class=\"coeur_defense image-container bande4\"></div>
+\t\t\t<div class=\"alto image-container bande2\"></div>
+\t\t\t<div class=\"ste_generale image-container bande3\"></div>
 \t\t</article>
 \t</section>
 \t<section class=\"card-container\" style=\"opacity: 0.2\" id=\"card\"></section>

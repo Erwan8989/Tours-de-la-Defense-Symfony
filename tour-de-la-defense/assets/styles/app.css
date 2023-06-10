@@ -108,13 +108,6 @@ h2 {
 	transition-duration: 1s; */
 }
 
-.bande {
-    position: relative;
-    z-index: -1;
-    transition-duration: 10s;
-    border-radius: 3px;
-}
-
 .bande1 {
     top: var(--top1);
 }
@@ -147,70 +140,54 @@ h2 {
     transition: background-color 1s;
 }
 
-.heckla {
-    background-image: url("../images/hekla.jpg");
+.image-container {
     display: flex;
     background-size: cover;
     background-repeat: no-repeat;
+    position: relative;
+    z-index: -1;
+    transition-duration: 10s;
+    border-radius: 3px;
+}
+
+.heckla {
+    background-image: url("../images/hekla.jpg");
 }
 
 .first {
     background-image: url("../images/first.jpg");
-    display: flex;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .edf {
     background-image: url("../images/edf.jpg");
-    display: flex;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .arche {
     background-image: url("../images/arche.jpg");
-    display: flex;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .trinity {
     background-image: url("../images/trinity.jpg");
-    display: flex;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .majunga {
     background-image: url("../images/majunga.jpg");
-    display: flex;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .total {
     background-image: url("../images/total.jpg");
-    display: flex;
-    background-size: cover;
-    background-repeat: no-repeat;
     background-position: 50%;
 }
 
 .coeur_defense {
     background-image: url("../images/coeur_defense.jpg");
-    display: flex;
-    background-size: cover;
-    background-repeat: no-repeat;
     background-position: 46%;
 }
 
 .alto {
     background-image: url("../images/alto.jpg");
-    display: flex;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
+
 
 .ste_generale {
     background-image: url("../images/ste_generale.jpg");
