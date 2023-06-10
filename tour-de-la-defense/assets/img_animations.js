@@ -62,7 +62,30 @@ window.addEventListener('scroll',() => {
 })
 
 setTimeout(function () {
-	let qualities = ['Elegantes','Majestueuses','Modernes','Imposantes', 'Vertigineuses'];
+	let qualities = [
+		'Élegantes',
+		'Majestueuses',
+		'Modernes',
+		'Imposantes',
+		'Vertigineuses',
+		'Élancés',
+		'Gigantesques',
+		'Éblouissantes',
+		'Spectaculaires',
+		'Innovantes',
+		'Iconiques',
+		'Futuristes'
+	];
+
+	function shuffleArray(array) {
+		for (let i = array.length - 1; i > 0; i--) {
+			const j = Math.floor(Math.random() * (i + 1));
+			[array[i], array[j]] = [array[j], array[i]];
+		}
+	}
+
+	shuffleArray(qualities);
+
 	let writing = new Typewriter('.typeWriterClass', {
 		loop: true,
 		delay: 100,
